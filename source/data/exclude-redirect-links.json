@@ -1,0 +1,14 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency.html",
+    "destination": "/cra-ia-updates-2026/en/revenue-agency.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/cra-ia-updates-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/cra-ia-updates-2026/en/services/taxes/income-tax.html"
+  }
+]
