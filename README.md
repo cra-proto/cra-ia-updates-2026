@@ -1,6 +1,6 @@
 # CRA-IA-updates
 
-*description of the project*
+Proposal on how to organize home page and theme page IA for CRA
 
 **Timeframe** 2026-05-06 - 2026-08-12
 
